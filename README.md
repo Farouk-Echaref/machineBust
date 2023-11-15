@@ -35,6 +35,10 @@ The command will run and show you an output similar to this:
 
 ![plot](./GoBuster.png)
 
+In the command above, `-u` is used to state the website we're scanning, `-w` takes a list of words to iterate through to find hidden pages.
+
+You will see that GoBuster scans the website with each word in the list, finding pages that exist on the site. GoBuster will have told you the pages it found in the list of page/directory names (indicated by Status: 200 => Succesful Request).
+
 
 
 
