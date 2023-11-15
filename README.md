@@ -21,6 +21,17 @@ Key features of GoBuster include:
 
 It's important to note that while GoBuster can be a valuable tool for security professionals, it should only be used in ethical and legal hacking scenarios with proper authorization. Unauthorized or malicious use of such tools is illegal and unethical. Always ensure you have permission before conducting any security assessments or testing.
 
+# Similuation Walkthrough
+
+Most companies will have an admin portal page, giving their staff access to basic admin controls for day-to-day operations. For a bank, an employee might need to transfer money to and from client accounts. Often these pages are not made private, allowing attackers to find hidden pages that show, or give access to, admin controls or sensitive data.
+
+Using this command to find potentially hidden pages on FakeBank's website using GoBuster (a command-line security application):
+
+```bash
+gobuster -u http://fakebank.com -w wordlist.txt dir
+```
+
+
 
 
 
