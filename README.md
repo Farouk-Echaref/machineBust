@@ -31,6 +31,9 @@ Using this command to find potentially hidden pages on FakeBank's website using 
 gobuster -u http://fakebank.com -w wordlist.txt dir
 ```
 
+The command will run and show you an output similar to this:
+
+![plot](./GoBuster.png)
 
 
 
