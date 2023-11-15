@@ -39,6 +39,12 @@ In the command above, `-u` is used to state the website we're scanning, `-w` tak
 
 You will see that GoBuster scans the website with each word in the list, finding pages that exist on the site. GoBuster will have told you the pages it found in the list of page/directory names (indicated by Status: 200 => Succesful Request).
 
+You should have found a secret bank transfer page that allows you to transfer money between accounts at the bank (/bank-transfer). By typing the hidden page into the FakeBank website on the machine:
+
+[here](busting.qt)
+
+
+
 
 
 
