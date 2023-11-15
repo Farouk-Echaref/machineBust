@@ -41,7 +41,9 @@ You will see that GoBuster scans the website with each word in the list, finding
 
 You should have found a secret bank transfer page that allows you to transfer money between accounts at the bank (/bank-transfer). By typing the hidden page into the FakeBank website on the machine:
 
-[here](busting.qt)
+
+https://github.com/Farouk-Echaref/machineBust/assets/66710845/f3884af4-5f90-4663-b721-8786a7bf3b68
+
 
 
 
